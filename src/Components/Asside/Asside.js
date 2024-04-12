@@ -2,18 +2,7 @@ import React from "react";
 import MYPhoto from "../Images/photo.jpg";
 import { HiOutlinePhone, HiOutlineMailOpen } from "react-icons/hi";
 import { AiOutlineLinkedin, AiFillGithub } from "react-icons/ai";
-import {
-  Photo,
-  Column,
-  Contact,
-  Section,
-  Item,
-  Link,
-  List,
-  Seitbar,
-  Title,
-  Hi,
-} from "./Asside.styled";
+import { Photo, Column, Contact, Section, Item, Link, List, Seitbar, Title, Hi } from "./Asside.styled";
 
 export default function Asside(techskills, softskills) {
   return (
@@ -35,10 +24,7 @@ export default function Asside(techskills, softskills) {
             </Contact>
 
             <Contact>
-              <Link
-                href="mailto:sanyabatyushka@gmail.com"
-                target="_blank"
-                rel="noreferrer">
+              <Link href="mailto:sanyabatyushka@gmail.com" target="_blank" rel="noreferrer">
                 <Hi>
                   <HiOutlineMailOpen />
                 </Hi>
@@ -46,10 +32,7 @@ export default function Asside(techskills, softskills) {
               </Link>
             </Contact>
             <Contact>
-              <Link
-                href="https://www.linkedin.com/in/oleksandr-vasylchuk"
-                target="_blank"
-                rel="noreferrer">
+              <Link href="https://www.linkedin.com/in/oleksandr-vasylchuk" target="_blank" rel="noreferrer">
                 <Hi>
                   <AiOutlineLinkedin />
                 </Hi>
@@ -58,10 +41,7 @@ export default function Asside(techskills, softskills) {
             </Contact>
 
             <Contact>
-              <Link
-                href="https://github.com/OleksandrVasylchuk"
-                target="_blank"
-                rel="noreferrer">
+              <Link href="https://github.com/OleksandrVasylchuk" target="_blank" rel="noreferrer">
                 <Hi>
                   <AiFillGithub />
                 </Hi>
@@ -80,8 +60,9 @@ export default function Asside(techskills, softskills) {
             {/* <Item>React.js/React router/React hooks</Item> */}
             <Item>HTML5/CSS3/SASS/BEM</Item>
             <Item>JavaScript Es6+ </Item>
-            <Item>Handlebars</Item>
+            {/* <Item>Handlebars</Item> */}
             {/* <Item>Redux/Redux Toolkit/Async Redux</Item> */}
+            <Item>WooCommerce</Item>
             <Item>WordPress</Item>
             <Item>Elementor</Item>
             <Item>WebPack</Item>
@@ -121,7 +102,7 @@ export default function Asside(techskills, softskills) {
         <Section>
           <Title>Language skills</Title>
           <List>
-            <Item>English - Pre-Intermediate</Item>
+            <Item>English - Intermediate</Item>
             <Item>Ukrainian - Mastery</Item>
           </List>
         </Section>

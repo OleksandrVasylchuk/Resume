@@ -16,16 +16,26 @@ export default function Work() {
       <Organisation>
         <Time>
           <Company>
+            Full Stack. <About>SEOMATICA</About>
+          </Company>
+        </Time>
+
+        <Time>Development of new sites. HTML5, CSS3, SASS, PHP, JS, JQUERY, AJAX, WordPress, ACF,</Time>
+        <Time>
+          <About></About>November 2023 - for now<Divider>|</Divider>
+          Ukraine
+        </Time>
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>
             Full Stack. <About>Smart Pipl</About>
           </Company>
         </Time>
 
+        <Time>Development of new sites and landing pages. HTML5, CSS3, SASS, PHP, JS, JQUERY, AJAX, WordPress, ACF, Elementor</Time>
         <Time>
-          Development of new sites and landing pages. HTML5, CSS3, SASS, PHP,
-          JS, JQUERY, AJAX, WordPress, ACF, Elementor
-        </Time>
-        <Time>
-          <About></About>February 2023 - up to now<Divider>|</Divider>
+          <About></About>February 2023 - November 2023<Divider>|</Divider>
           Ukraine
         </Time>
       </Organisation>
@@ -36,10 +46,7 @@ export default function Work() {
           </Company>
         </Time>
 
-        <Time>
-          Development of new sites and landing pages. PHP, HTML, CSS, JS,
-          WordPress
-        </Time>
+        <Time>Development of new sites and landing pages. PHP, HTML, CSS, JS, WordPress</Time>
         <Time>
           <About></About>October 2022 - February 2023<Divider>|</Divider>
           Ukraine
@@ -73,14 +80,11 @@ export default function Work() {
       <Organisation>
         <Time>
           <Company>
-            Front-End Developer. <About>ASIA GROUP</About>
+            Full Stack. <About>ASIA GROUP</About>
           </Company>
         </Time>
 
-        <Time>
-          Development of a new site. Developing existing sites, adding new
-          pages, changing content. Work with Laravel, PHP, HTML, CSS, JS
-        </Time>
+        <Time>Development of a new site. Developing existing sites, adding new pages, changing content. Work with Laravel, WordPress, PHP, HTML, CSS, JS</Time>
         <Time>
           <About></About>November 2021 - February 2022<Divider>|</Divider>
           Ukraine
@@ -95,16 +99,11 @@ export default function Work() {
       <Organisation>
         <Time>
           <Company>
-            Search Engine Optimization WEB Developer. <About>Semalt</About>
+            SEO Full Stack Developer. <About>Semalt</About>
           </Company>
         </Time>
 
-        <Time>
-          Analysis and detection of errors that hinder SEO promotion, their
-          correction, as well as comprehensive optimization to improve
-          visibility in search engines and attract the target audience. I have
-          experience working with various CMS, and Docker, XAMPP and databases
-        </Time>
+        <Time>Analysis and detection of errors that hinder SEO promotion, their correction, as well as comprehensive optimization to improve visibility in search engines and attract the target audience. I have experience working with various CMS, and Docker and databases</Time>
         <Time>
           <About></About> June 2021 - November 2021
           <Divider>|</Divider>Ukraine

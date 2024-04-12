@@ -20,7 +20,7 @@ export const Divider = styled.span`
 `;
 
 export const About = styled.p`
-  color: #7b9d83;
+  color: #22742a;
   margin-left: 15px;
   font-size: 20px;
   font-weight: 700;

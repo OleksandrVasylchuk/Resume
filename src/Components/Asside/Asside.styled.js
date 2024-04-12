@@ -9,7 +9,7 @@ export const Seitbar = styled.aside`
     rgba(2, 2, 59, 1) 48%,
     rgba(28, 35, 84, 1) 100%
   ); */
-  background: #082d11;
+  background: #142227;
   background-size: cover;
   width: 450px;
 `;
