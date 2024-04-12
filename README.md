@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Для коректної роботи з SSH вам необхідно змінити URL віддаленого репозиторію, щоб використовувати SSH.
+
+Ось як це можна зробити:
+
+### `git remote set-url origin git@github.com:OleksandrVasylchuk/oleksandr-vasylchuk-resume.git`
