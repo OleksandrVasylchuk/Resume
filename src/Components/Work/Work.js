@@ -15,12 +15,33 @@ export default function Work() {
     <List>
       <Organisation>
         <Time>
-          <Company>Front-End Developer.</Company>
+          <Company>
+            Full Stack. <About>Smart Pipl</About>
+          </Company>
         </Time>
-        <About>TRIONIKA </About>
-        <Time>Development of a new sites. PHP, HTML, CSS, JS, WordPress</Time>
+
         <Time>
-          <About></About>February 2022 - up to now<Divider>|</Divider>
+          Development of new sites and landing pages. HTML5, CSS3, SASS, PHP,
+          JS, JQUERY, AJAX, WordPress, ACF, Elementor
+        </Time>
+        <Time>
+          <About></About>February 2023 - up to now<Divider>|</Divider>
+          Ukraine
+        </Time>
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>
+            Full Stack. <About>EIN-DES-EIN </About>
+          </Company>
+        </Time>
+
+        <Time>
+          Development of new sites and landing pages. PHP, HTML, CSS, JS,
+          WordPress
+        </Time>
+        <Time>
+          <About></About>October 2022 - February 2023<Divider>|</Divider>
           Ukraine
         </Time>
         {/* 
@@ -32,15 +53,36 @@ export default function Work() {
       </Organisation>
       <Organisation>
         <Time>
-          <Company>Front-End Developer.</Company>
+          <Company>
+            Full Stack. <About>TRIONIKA </About>
+          </Company>
         </Time>
-        <About>ASIA GROUP</About>
+
+        <Time>Development of a new sites. PHP, HTML, CSS, JS, WordPress</Time>
+        <Time>
+          <About></About>February 2022 - October 2022<Divider>|</Divider>
+          Ukraine
+        </Time>
+        {/* 
+        <Lists>
+          <Item>teamwork and mutual assistance;</Item>
+          <Item>computer literacy;</Item>
+          <Item>communication with the population.</Item>
+        </Lists> */}
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>
+            Front-End Developer. <About>ASIA GROUP</About>
+          </Company>
+        </Time>
+
         <Time>
           Development of a new site. Developing existing sites, adding new
           pages, changing content. Work with Laravel, PHP, HTML, CSS, JS
         </Time>
         <Time>
-          <About></About>November 2021 - up to now<Divider>|</Divider>
+          <About></About>November 2021 - February 2022<Divider>|</Divider>
           Ukraine
         </Time>
         {/* 
@@ -52,9 +94,11 @@ export default function Work() {
       </Organisation>
       <Organisation>
         <Time>
-          <Company>Search Engine Optimization WEB Developer.</Company>
+          <Company>
+            Search Engine Optimization WEB Developer. <About>Semalt</About>
+          </Company>
         </Time>
-        <About>Semalt</About>
+
         <Time>
           Analysis and detection of errors that hinder SEO promotion, their
           correction, as well as comprehensive optimization to improve
